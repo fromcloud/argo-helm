@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: https://github.com/brandonslee/argo-helm.git
+    repoURL: https://github.com/fromcloud/argo-helm.git
     targetRevision: HEAD
   syncPolicy:
     automated:
